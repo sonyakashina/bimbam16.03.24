@@ -1,0 +1,37 @@
+.fon{
+  background-color: #7B68EE;
+}
+.fon1{
+  background-color: #B0C4DE;
+  padding: 200px;
+}
+.t1{
+  height: 200px;
+  width: 200px;
+  -webkit-box-shadow: 0px 0px 30px 9px rgba(122, 47, 47, 0.57);
+  -moz-box-shadow: 0px 0px 30px 9px rgba(122, 47, 47, 0.57);
+  box-shadow: 0px 0px 30px 9px rgba(122, 47, 47, 0.57);
+}
+.sabaka{
+  background-color:#FA8072;
+}
+.t2{
+  height: 200px;
+  width: 200px;
+  -webkit-box-shadow: 0px 0px 30px 9px rgba(122, 47, 47, 0.57);
+  -moz-box-shadow: 0px 0px 30px 9px rgba(122, 47, 47, 0.57);
+  box-shadow: 0px 0px 30px 9px rgba(122, 47, 47, 0.57);
+}
+.t3{
+  height: 200px;
+  width: 200px;
+  -webkit-box-shadow: 0px 0px 30px 9px rgba(122, 47, 47, 0.57);
+  -moz-box-shadow: 0px 0px 30px 9px rgba(122, 47, 47, 0.57);
+  box-shadow: 0px 0px 30px 9px rgba(122, 47, 47, 0.57);
+}
+.add{
+  background-color:#FF4500;
+  height: 200px;
+  width: 200px;
+  display: none;
+}
